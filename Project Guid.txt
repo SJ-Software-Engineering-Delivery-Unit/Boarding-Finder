@@ -1,0 +1,65 @@
+
+A) Install Node 16 or above Version
+
+1. Create DB
+
+2. Import Postman Collection file (one json file included in api project folder)
+
+2.1 Open API project in VS Code. take new terminal and Run cmd:- npm i or  npm install
+
+3. Run API :- cmd:-  node server.js
+
+3. Create Admin's Account by using Postman & Active by mail.
+
+4. Open Android Project
+
+5. Give Current IP4 Address to 2 xml files shown in video. (cmd: ipconfig)
+
+6. Run Anroid App
+
+7. Login as admin & Logout
+
+8. Register as Owner :- Profile pictire is Optional (you can skip)
+   (owner=boarding owners)
+
+9. Active Account by received email
+   (If you're given a fake email, 
+	then go to finderboading@gmail.com mail Send Box,
+        you can find account activation mail).
+
+
+10. Login & Upload Post
+
+   10.1 -> Got postmen and Create Facilities
+
+11. Login as admin & approve post
+
+12. Register as boarding Seeker
+
+13. Active Account by received email
+   (If you're given a fake email, 
+	then go to finderboading@gmail.com mail Send Box,
+        you can find account activation mail).
+
+14. Login as boarding house seeker
+	- See Boarding details
+	- update passoword
+	- reset password in login screeen (Will receive an reset password mail)
+
+
+Note: 
+
+     # If you're skip providing profile picute at the registration 
+      the API will automatically set default avatart image it self. 
+      it's already located at firebase account.
+
+
+    #  If your are give real email and still your cant find aknowledgment email send by this app?
+	There are two possible ways to find email:
+						1. Check your spam folder rather inbox
+						2. goto finderboading@gmail.com - goto  sentbox then your can find mail sent by API.
+	
+
+    # Payment getway intergraded : https://www.payhere.lk/  (BUT Currenly not working that sandbox page)
+
+	Thank You!!!
