@@ -61,5 +61,11 @@ Note:
 	
 
     # Payment getway intergraded : https://www.payhere.lk/  (BUT Currenly not working that sandbox page)
+	
+
+    #Gmail Account for to Both Email and Firebase Bucket
+
+     username:	finderboading@gmail.com
+     password:   asd@1234
 
 	Thank You!!!
